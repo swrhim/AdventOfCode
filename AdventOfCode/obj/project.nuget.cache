@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fkoy0x66JtlRLKesVaC3Dq+l2Sir1QpY+6NN8oEKzUjrw2ER35K311pQtimAwWJBou0dR26GuGM4lVjfxofaTw==",
+  "success": true,
+  "projectFilePath": "/Users/drhim/dev/AdventOfCode/AdventOfCode/AdventOfCode.fsproj",
+  "expectedPackageFiles": [
+    "/Users/drhim/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
